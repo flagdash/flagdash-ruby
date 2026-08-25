@@ -1,0 +1,3 @@
+module FlagDash
+  VERSION = "0.1.0"
+end
